@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rathodsudarshan
-- 👀 I’m interested in Software Developer
-- 🌱 I’m currently learning  frontend web-develpment
+- 👀 I’m interested in 
+- 🌱 I’m currently learning  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
